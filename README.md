@@ -1,5 +1,5 @@
 <div align="center">
- <h1><img alt="notify-sh logo" src="https://github.com/ggoodwin/go-ntfy/blob/main/ntfy.png" /><br />
+ <h1><img alt="notify-sh logo" src="https://github.com/ggoodwin/go-nfty/blob/main/ntfy.png" /><br />
   NTFY.SH Go Library
  </h1>
 
